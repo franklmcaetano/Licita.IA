@@ -1,0 +1,9 @@
+{
+  "name": "Licitações.IA - Inteligência Estratégica",
+  "short_name": "Licita.IA",
+  "description": "Plataforma Tática para Análise de Editais",
+  "start_url": "/painel",
+  "display": "standalone",
+  "background_color": "#111318",
+  "theme_color": "#111318"
+}
